@@ -15,14 +15,14 @@ CSS3: For styling and layout.
 JavaScript: For interactivity and real-time feedback.
 Bootstrap: For responsive design and pre-built UI components.
 
-Installation
+## Installation
 1.Clone the repository to your local machine:
    git clone https://github.com/yourusername/typing-tester.git
 
 2.Navigate to the project directory:
   cd typing-tester
 
-Usage
+## Usage
 1.Open index.html in your web browser:
    open index.html
 2.Choose a text passage to practice.
