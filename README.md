@@ -25,9 +25,9 @@ Bootstrap: For responsive design and pre-built UI components.
   cd typing-tester
 ```
 ## Usage
-1.Open index.html in your web browser:
+- Open index.html in your web browser:
    open index.html
-2.Choose a text passage to practice.
-3.Start typing in the text area. Your typing speed and accuracy will be displayed in real-time.
+- Choose a text passage to practice.
+- Start typing in the text area. Your typing speed and accuracy will be displayed in real-time.
 
 
