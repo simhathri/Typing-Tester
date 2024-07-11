@@ -1,9 +1,9 @@
 # Typing-Tester
 
-Description
+## Description
 Typing Tester is a web-based application designed to help users improve their typing speed and accuracy. The application allows users to practice typing predefined text passages and provides instant feedback on their performance, including typing speed (words per minute) and accuracy percentage.
 
-Features
+## Features
 User-Friendly Interface: Clean and intuitive design for ease of use.
 Real-Time Feedback: Displays typing speed and accuracy as you type.
 Customizable Text Passages: Choose from a variety of text passages to practice.
