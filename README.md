@@ -17,8 +17,9 @@ Bootstrap: For responsive design and pre-built UI components.
 
 ## Installation
 1.Clone the repository to your local machine:
+```
    git clone https://github.com/yourusername/typing-tester.git
-
+```
 2.Navigate to the project directory:
   cd typing-tester
 
